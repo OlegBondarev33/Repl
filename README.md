@@ -21,7 +21,7 @@
 
 На лекции рассматривались режимы репликации master-slave, master-master, опишите их различия.
 
-*Ответить в свободной форме.*
+Выбор между Master-Slave и Master-Master зависит от требований системы. Master-Slave проще в настройке и управлении, но существует потенциальный риск простоя при отказе мастера. Master-Master обеспечивает более высокую доступность, но требует более сложных настроек и управления, а также решения проблем с консистентностью данных. Существуют и другие, более сложные топологии репликации, которые могут объединяться в элементы Master-Slave и Master-Master для достижения баланса между доступностью, консистентностью и производительностью.
 
 ---
 
@@ -33,6 +33,9 @@
 
 ![image](https://github.com/user-attachments/assets/647cc13e-8e51-41ad-af55-7c12cf61b3d8)
 ![image](https://github.com/user-attachments/assets/0b3ff962-5c6f-4077-b247-680420dd87ee)
+![image](https://github.com/user-attachments/assets/533c8475-0c9a-452e-a21f-2f53396567ba)
+![image](https://github.com/user-attachments/assets/6a9bd733-e5b1-4c2a-8a81-8efd82aeb954)
+
 
 
 
