@@ -31,6 +31,12 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+![image](https://github.com/user-attachments/assets/647cc13e-8e51-41ad-af55-7c12cf61b3d8)
+![image](https://github.com/user-attachments/assets/0b3ff962-5c6f-4077-b247-680420dd87ee)
+
+
+
+
 ---
 
 ## Дополнительные задания (со звёздочкой*)
